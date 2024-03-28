@@ -1,0 +1,21 @@
+﻿pclass,survived,name,sex,age,sibsp,parch,ticket,fare,cabin,embarked,boat,body,home.dest
+1,1,"Allen, Miss. Elisabeth Walton",female,29,0,0,24160,211.3375,B5,S,2,,St Louis MO
+1,1,"Allison, Master. Hudson Trevor",male,0.9167,1,2,113781,151.55,C22 C26,S,11,,Montreal PQ / Chesterville ON
+1,0,"Allison, Miss. Helen Loraine",female,2,1,2,113781,151.55,C22 C26,S,,,Montreal PQ / Chesterville ON
+1,0,"Allison, Mr. Hudson Joshua Creighton",male,30,1,2,113781,151.55,C22 C26,S,,135,Montreal PQ / Chesterville ON
+1,0,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25,1,2,113781,151.55,C22 C26,S,,,Montreal PQ / Chesterville ON
+1,1,"Anderson, Mr. Harry",male,48,0,0,19952,26.55,E12,S,3,,New York NY
+,,,,,,,,,,,,,
+2,1,"West, Miss. Constance Mirium",female,5,1,2,C.A. 34651,27.75,,S,10,,Bournmouth England
+2,0,"West, Mr. Edwy Arthur",male,36,1,2,C.A. 34651,27.75,,S,,,Bournmouth England
+2,1,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33,1,2,C.A. 34651,27.75,,S,10,,Bournmouth England
+2,0,"Wheadon, Mr. Edward H",male,66,0,0,C.A. 24579,10.5,,S,,,Guernsey England / Edgewood RI
+2,0,"Wheeler, Mr. Edwin Frederick",male,,0,0,SC/PARIS 2159,12.875,,S,,,Unknown
+2,1,"Wilhelms, Mr. Charles",male,31,0,0,244270,13,,S,9,,London England
+3,0,"Abbing, Mr. Anthony",male,42,0,0,C.A. 5547,7.55,,S,,,Unknown
+3,0,"Abbott, Master. Eugene Joseph",male,13,0,2,C.A. 2673,20.25,,S,,,East Providence RI
+3,0,"Abbott, Mr. Rossmore Edward",male,16,1,1,C.A. 2673,20.25,,S,,190,East Providence RI
+3,1,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35,1,1,C.A. 2673,20.25,,S,A,,East Providence RI
+3,1,"Abelseth, Miss. Karen Marie",female,16,0,0,348125,7.65,,S,16,,Norway Los Angeles CA
+3,1,"Abelseth, Mr. Olaus Jorgensen",male,25,0,0,348122,7.65,F G63,S,A,,Perkins County SD
+3,1,"Abrahamsson, Mr. Abraham August Johannes",male,20,0,0,SOTON/O2 3101284,7.925,,S,15,,Taalintehdas Finland Hoboken NJ
